@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Twahir</h1>
-<h3 align="center">A passionate backend developer from Kenya</h3>
+<h3 align="center">I am a  passionate backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtwahir&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtwahir" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript and Java**
 
-- 👯 I’m looking to collaborate on **machine learning and AI projects**
+- 🤝 I’m looking to collaborate on **machine learning and AI projects**
 
 - 👨‍💻 All of my projects are available at [mohamedtwahir.github.io](mohamedtwahir.github.io)
 
