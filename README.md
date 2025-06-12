@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtwahir&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtwahir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedtwahir" alt="mohamedtwahir" /></a> </p>
-
 <p align="left"> <a href="https://x.com/MohamedMud94090" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedmudhari?logo=twitter&style=for-the-badge" alt="mohamedmudhari" /></a> </p>
 
 - 🔭 I’m currently working on **Rays Solar Energy Website**
