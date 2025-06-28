@@ -2,6 +2,7 @@
 <h3 align="center">I am a  passionate backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtwahir&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtwahir" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/MohamedTwahir/badges/large" alt="mohamedtwahir codewars badge" /> </p>
 
 <p align="left"> <a href="https://x.com/MohamedMud94090" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedmudhari?logo=twitter&style=for-the-badge" alt="mohamedmudhari" /></a> </p>
 
